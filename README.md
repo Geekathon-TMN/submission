@@ -11,7 +11,9 @@ Hosting the Travfun app submission for Geekathon'22 event.
 - [@Xplouder](https://www.github.com/xplouder)
 - [@jpjcorreia](https://www.github.com/jpjcorreia)
 
+## Presentation
 
+[Click here](https://github.com/Geekathon-TMN/submission/blob/main/docs/TravFun.pptx)
 
 ## Demo
 
